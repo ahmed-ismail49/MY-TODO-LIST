@@ -16,6 +16,5 @@ All data is saved using simple file handling techniques, so the tasks can be ret
 C++
 
 File Handling
-
-Object-Oriented Programming (OOP)
+Structured Programming
 ##
